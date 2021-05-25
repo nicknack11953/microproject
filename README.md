@@ -7,5 +7,7 @@
 
 ต้องติดตั้ง Open cv ก่อนจึงจะใช้งานได้
 https://www.youtube.com/watch?v=OugQIz_vcFo&t=304s
+
+
 วิธีการใช้งาน
 https://www.youtube.com/watch?v=hCGGKNqFO3w
